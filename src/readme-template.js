@@ -1,3 +1,5 @@
+const { template } = require("lodash");
+
 module.exports = templateData => {
 
     if (templateData.license === 'Apache') {
@@ -46,7 +48,7 @@ module.exports = templateData => {
     
     ## Contributing
     
-    If you would like to help with this project, please refer to my email in the [questions](#questions) area to get in touch.
+    ${templateData.contribution}
     
     ## Tests
     

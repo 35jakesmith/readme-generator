@@ -1,11 +1,11 @@
 
-    [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
-    # g
+    # readme-generator
     
     ## Description
     
-    g
+    This project generates a professional README using Node
     
     ## Table of Contents
     * [Description](#description)
@@ -26,11 +26,11 @@
     
     ## License
     
-    This project is covered under the following license: Apache
+    This project is covered under the following license: MIT
     
     ## Contributing
     
-    If you would like to help with this project, please refer to my email in the [questions](#questions) area to get in touch.
+    
     
     ## Tests
     
@@ -38,7 +38,7 @@
     
     ## Questions
     
-    [Github](https://github.com/g)
+    [Github](https://github.com/35jakesmith)
     
-    If you have any questions, feel free to email me at [g](mailto:g)
+    If you have any questions, feel free to email me at [35jakesmith@gmail.com](mailto:35jakesmith@gmail.com)
     
