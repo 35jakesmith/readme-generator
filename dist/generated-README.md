@@ -1,11 +1,11 @@
 
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
-    # README Generator
+    # g
     
     ## Description
     
-    Use this to have a readme generated
+    g
     
     ## Table of Contents
     * [Description](#description)
@@ -18,7 +18,7 @@
     
     ## Installation
     
-    type the following command in the terminal to install the necessary dependencies: undefined
+    type the following command in the terminal to install the necessary dependencies: npm i
     
     ## Usage
     
@@ -26,7 +26,7 @@
     
     ## License
     
-    This project is covered under the following license: MIT
+    This project is covered under the following license: Apache
     
     ## Contributing
     
@@ -38,7 +38,7 @@
     
     ## Questions
     
-    [Github](https://github.com/35jakesmith)
+    [Github](https://github.com/g)
     
-    If you have any questions, feel free to email me at [35jakesmith@gmail.com](mailto:35jakesmith@gmail.com)
+    If you have any questions, feel free to email me at [g](mailto:g)
     

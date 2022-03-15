@@ -40,7 +40,7 @@ const promptUser = () => {
                     return true;
                 } else {
                     console.log('Please give a name for your project!');
-                    return false;
+                    return;
                 }
             } 
         },
@@ -53,7 +53,7 @@ const promptUser = () => {
                     return true;
                 } else {
                     console.log('Please enter a short description!');
-                    return false;
+                    return;
                 }
             }
         },
@@ -67,13 +67,13 @@ const promptUser = () => {
                     return true;
                 } else {
                     console.log('Please select a license');
-                    return false;
+                    return;
                 }
             }
         },
         {
             type: 'input',
-            name: 'dependecies',
+            name: 'dependencies',
             message: 'What command should be run to install dependencies?',
             default: 'npm i'
         },
